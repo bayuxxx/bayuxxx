@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm I Gede Bayu Balawa Tangub </h1>
 <h3 align="center">A passionate student who focuses on frontend development from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/5FVtsLf6g9QOqIakxw">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlnkh18&label=Profile%20views&color=0e75b6&style=flat" alt="mlnkh18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayuxxx&label=Profile%20views&color=0e75b6&style=flat" alt="bayuxxx" /> </p>
 
 - 🌱 I’m currently learning **Flutter And Python**
 
