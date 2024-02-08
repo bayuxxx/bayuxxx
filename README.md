@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm I Gede Bayu Balawa Tangub </h1>
 <h3 align="center">A passionate student who focuses on frontend development from Indonesia</h3>
-<iframe src="https://lottiefiles.com/iframe/24e7a4d1-8889-4bdc-8265-ac683711be35" frameborder="0" width="400" height="400"></iframe>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayuxxx&label=Profile%20views&color=0e75b6&style=flat" alt="bayuxxx" /> </p>
 
