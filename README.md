@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm I Gede Bayu Balawa Tangub </h1>
 <h3 align="center">A passionate student who focuses on frontend development from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/5FVtsLf6g9QOqIakxw.gif">
+<img align="right" alt="Coding" width="400" src="https://lottie.host/e85a87a6-037a-4bd6-ab28-38ffcfa903da/Y5XCFkE3nA.lottie">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayuxxx&label=Profile%20views&color=0e75b6&style=flat" alt="bayuxxx" /> </p>
 
