@@ -42,18 +42,3 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
-
-### 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bayuxxx&show_icons=true&locale=en&theme=tokyonight" alt="bayuxxx" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayuxxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bayuxxx" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bayuxxx&theme=tokyonight" alt="bayuxxx"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bayuxxx&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="trophy"/>
-</p>
