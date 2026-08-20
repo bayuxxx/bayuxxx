@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm I Gede Bayu Balawa Tangub
 
-### A passionate student who focuses on frontend development from Indonesia
+### A passionate Full Stack & Frontend Developer from Indonesia 🇮🇩
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bayuxxx&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -12,8 +12,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 Currently learning **Flutter & Python**
-- 💬 Ask me about **Flutter**
+- 🌱 Currently learning **Flutter, React & Python**
+- 💬 Ask me about **Frontend Development & Flutter**
 - 📫 Reach me at **bayulords@gmail.com**
 - ⚡ Fun fact: **I'm friendly and respond quickly to everyone**
 
@@ -22,7 +22,10 @@
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://instagram.com/ubay.dart" target="_blank">
+<a href="https://www.linkedin.com/in/i-gede-bayu-balawa-tangub-679a57287" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/ubay.dart" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:bayulords@gmail.com">
@@ -34,9 +37,11 @@
 
 <p align="left">
 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
